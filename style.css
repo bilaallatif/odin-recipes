@@ -2,7 +2,7 @@ body {
     background-color: grey;
 }
 
-h1 {
+.title {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 48px;
@@ -10,6 +10,15 @@ h1 {
     background-color: orange;
 }
 
-ul {
+.subtitle {
+    background-color: orange;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* .subtitle .header {
+} */
+
+
+/* ul {
+    font-family: Arial, Helvetica, sans-serif;
+} */
